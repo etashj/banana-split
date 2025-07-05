@@ -2,7 +2,8 @@ meta:
   version: 0.0.1
   engine: 4.1.0
   author: Etash Jhanji
-#units: <units config...> # optional
+units:
+  $default_padding: cy
 points: 
   zones: 
     leftmain: 
@@ -51,12 +52,16 @@ points:
         in: 
         out: 
           key.splay: -23
-          key.shift: [0, cy-1]
+          key.shift: [0, cy-2]
       key: 
-        shift: [3, cy+2]
+        shift: [3, cy+1]
   mirror: 
     ref: leftmain_pinky_home
     distance: 270
-#outlines: <outline config...> #optional
+#outlines: 
+#  raw: 
+#    - what: rectangle
+#      where: true
+#      size: [cx, cy]
 #cases: <case config...> #optional
 #pcbs: <pcb config...> #optional

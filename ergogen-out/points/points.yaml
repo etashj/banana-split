@@ -17,7 +17,7 @@ leftmain_pinky_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -81,8 +81,8 @@ leftmain_pinky_bottom:
             - 0
             - 0
 leftmain_pinky_home:
-    x: -0.7513310000000009
-    'y': 21.7445343
+    x: -0.4729848000000012
+    'y': 19.7639982
     r: 8
     meta:
         stagger: 0
@@ -99,7 +99,7 @@ leftmain_pinky_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -163,8 +163,8 @@ leftmain_pinky_home:
             - 10
             - 0
 leftmain_pinky_top:
-    x: -3.3956199000000007
-    'y': 40.5596276
+    x: -2.8389275000000014
+    'y': 36.598555399999995
     r: 8
     meta:
         stagger: 0
@@ -181,7 +181,7 @@ leftmain_pinky_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -263,7 +263,7 @@ leftmain_ring_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -326,8 +326,8 @@ leftmain_ring_bottom:
             - 0
             - 10
 leftmain_ring_home:
-    x: 19.418300199999997
-    'y': 38.573762200000004
+    x: 19.453204999999997
+    'y': 36.5740668
     r: 1
     meta:
         stagger: 14
@@ -344,7 +344,7 @@ leftmain_ring_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -407,8 +407,8 @@ leftmain_ring_home:
             - 10
             - 10
 leftmain_ring_top:
-    x: 19.086704499999996
-    'y': 57.57086840000001
+    x: 19.156514099999995
+    'y': 53.571477599999994
     r: 1
     meta:
         stagger: 14
@@ -425,7 +425,7 @@ leftmain_ring_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -506,7 +506,7 @@ leftmain_middle_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -569,8 +569,8 @@ leftmain_middle_bottom:
             - 0
             - 10
 leftmain_middle_home:
-    x: 41.0024131
-    'y': 42.8788119
+    x: 40.8629002
+    'y': 40.8836838
     r: -4
     meta:
         stagger: 4
@@ -587,7 +587,7 @@ leftmain_middle_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -650,8 +650,8 @@ leftmain_middle_home:
             - 10
             - 10
 leftmain_middle_top:
-    x: 42.3277861
-    'y': 61.8325289
+    x: 42.0487603
+    'y': 57.842272699999995
     r: -4
     meta:
         stagger: 4
@@ -668,7 +668,7 @@ leftmain_middle_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -749,7 +749,7 @@ leftmain_index_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -812,8 +812,8 @@ leftmain_index_bottom:
             - 0
             - 0
 leftmain_index_home:
-    x: 61.2542294
-    'y': 36.377980099999995
+    x: 60.9413605
+    'y': 34.4026034
     r: -9
     meta:
         stagger: -5
@@ -830,7 +830,7 @@ leftmain_index_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -893,8 +893,8 @@ leftmain_index_home:
             - 10
             - 10
 leftmain_index_top:
-    x: 64.2264842
-    'y': 55.144058599999994
+    x: 63.600746400000006
+    'y': 51.1933052
     r: -9
     meta:
         stagger: -5
@@ -911,7 +911,7 @@ leftmain_index_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -992,7 +992,7 @@ leftmain_indexfar_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1054,8 +1054,8 @@ leftmain_indexfar_bottom:
             - 0
             - 0
 leftmain_indexfar_home:
-    x: 80.3473685
-    'y': 33.350994199999995
+    x: 80.00007210000001
+    'y': 31.381378699999996
     r: -10
     meta:
         stagger: 0
@@ -1072,7 +1072,7 @@ leftmain_indexfar_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1134,8 +1134,8 @@ leftmain_indexfar_home:
             - 10
             - 10
 leftmain_indexfar_top:
-    x: 83.6466839
-    'y': 52.062341499999995
+    x: 82.95209110000002
+    'y': 48.123110499999996
     r: -10
     meta:
         stagger: 0
@@ -1152,7 +1152,7 @@ leftmain_indexfar_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1232,7 +1232,7 @@ leftthumb_in_thumb:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1294,7 +1294,7 @@ leftthumb_home_thumb:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1360,7 +1360,7 @@ leftthumb_out_thumb:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1408,8 +1408,8 @@ leftthumb_out_thumb:
             - 0
             - 0
 leftthumbin_in:
-    x: 99.9549604
-    'y': 4.082145599999995
+    x: 99.4549604
+    'y': 3.2161201999999953
     r: -30
     meta:
         stagger: 0
@@ -1421,12 +1421,12 @@ leftthumbin_in:
         orient: 0
         shift:
             - 3
-            - 19
+            - 18
         rotate: 0
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1440,13 +1440,13 @@ leftthumbin_in:
                         splay: -23
                         shift:
                             - 0
-                            - cy-1
+                            - cy-2
                     rows: {}
                     name: out
             key:
                 shift:
                     - 3
-                    - cy+2
+                    - cy+1
             name: leftthumbin
         col:
             rows: {}
@@ -1460,8 +1460,8 @@ leftthumbin_in:
             - 0
             - 0
 leftthumbin_out:
-    x: 117.0895351
-    'y': -10.743296700000004
+    x: 116.29089960000002
+    'y': -11.345111800000003
     r: -53
     meta:
         stagger: 0
@@ -1473,12 +1473,12 @@ leftthumbin_out:
         orient: 0
         shift:
             - 0
-            - 16
+            - 15
         rotate: 0
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1492,20 +1492,20 @@ leftthumbin_out:
                         splay: -23
                         shift:
                             - 0
-                            - cy-1
+                            - cy-2
                     rows: {}
                     name: out
             key:
                 shift:
                     - 3
-                    - cy+2
+                    - cy+1
             name: leftthumbin
         col:
             key:
                 splay: -23
                 shift:
                     - 0
-                    - cy-1
+                    - cy-2
             rows: {}
             name: out
         row: default
@@ -1516,7 +1516,7 @@ leftthumbin_out:
             - 0
             - 0
 mirror_leftmain_pinky_bottom:
-    x: 266.6043801
+    x: 267.1610725
     'y': 2.9294410000000006
     r: -8
     meta:
@@ -1534,7 +1534,7 @@ mirror_leftmain_pinky_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1598,8 +1598,8 @@ mirror_leftmain_pinky_bottom:
             - 0
             - 0
 mirror_leftmain_pinky_home:
-    x: 269.248669
-    'y': 21.7445343
+    x: 269.5270152
+    'y': 19.7639982
     r: -8
     meta:
         stagger: 0
@@ -1616,7 +1616,7 @@ mirror_leftmain_pinky_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1681,7 +1681,7 @@ mirror_leftmain_pinky_home:
             - 0
 mirror_leftmain_pinky_top:
     x: 271.8929579
-    'y': 40.5596276
+    'y': 36.598555399999995
     r: -8
     meta:
         stagger: 0
@@ -1698,7 +1698,7 @@ mirror_leftmain_pinky_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1762,7 +1762,7 @@ mirror_leftmain_pinky_top:
             - 10
             - 0
 mirror_leftmain_ring_bottom:
-    x: 248.7474421
+    x: 249.30413449999998
     'y': 19.576656
     r: -1
     meta:
@@ -1780,7 +1780,7 @@ mirror_leftmain_ring_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1843,8 +1843,8 @@ mirror_leftmain_ring_bottom:
             - 0
             - 10
 mirror_leftmain_ring_home:
-    x: 249.0790378
-    'y': 38.573762200000004
+    x: 249.6008254
+    'y': 36.5740668
     r: -1
     meta:
         stagger: 14
@@ -1861,7 +1861,7 @@ mirror_leftmain_ring_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -1924,8 +1924,8 @@ mirror_leftmain_ring_home:
             - 10
             - 10
 mirror_leftmain_ring_top:
-    x: 249.41063350000002
-    'y': 57.57086840000001
+    x: 249.8975163
+    'y': 53.571477599999994
     r: -1
     meta:
         stagger: 14
@@ -1942,7 +1942,7 @@ mirror_leftmain_ring_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2005,7 +2005,7 @@ mirror_leftmain_ring_top:
             - 10
             - 0
 mirror_leftmain_middle_bottom:
-    x: 228.8202979
+    x: 229.3769903
     'y': 23.925094899999998
     r: 4
     meta:
@@ -2023,7 +2023,7 @@ mirror_leftmain_middle_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2086,8 +2086,8 @@ mirror_leftmain_middle_bottom:
             - 0
             - 10
 mirror_leftmain_middle_home:
-    x: 227.4949249
-    'y': 42.8788119
+    x: 228.19113019999998
+    'y': 40.8836838
     r: 4
     meta:
         stagger: 4
@@ -2104,7 +2104,7 @@ mirror_leftmain_middle_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2167,8 +2167,8 @@ mirror_leftmain_middle_home:
             - 10
             - 10
 mirror_leftmain_middle_top:
-    x: 226.16955190000002
-    'y': 61.8325289
+    x: 227.0052701
+    'y': 57.842272699999995
     r: 4
     meta:
         stagger: 4
@@ -2185,7 +2185,7 @@ mirror_leftmain_middle_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2248,7 +2248,7 @@ mirror_leftmain_middle_top:
             - 10
             - 0
 mirror_leftmain_index_bottom:
-    x: 210.2153634
+    x: 210.77205579999998
     'y': 17.611901599999996
     r: 9
     meta:
@@ -2266,7 +2266,7 @@ mirror_leftmain_index_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2329,8 +2329,8 @@ mirror_leftmain_index_bottom:
             - 0
             - 0
 mirror_leftmain_index_home:
-    x: 207.24310860000003
-    'y': 36.377980099999995
+    x: 208.1126699
+    'y': 34.4026034
     r: 9
     meta:
         stagger: -5
@@ -2347,7 +2347,7 @@ mirror_leftmain_index_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2410,8 +2410,8 @@ mirror_leftmain_index_home:
             - 10
             - 10
 mirror_leftmain_index_top:
-    x: 204.2708538
-    'y': 55.144058599999994
+    x: 205.453284
+    'y': 51.1933052
     r: 9
     meta:
         stagger: -5
@@ -2428,7 +2428,7 @@ mirror_leftmain_index_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2491,7 +2491,7 @@ mirror_leftmain_index_top:
             - 10
             - 10
 mirror_leftmain_indexfar_bottom:
-    x: 191.4492849
+    x: 192.00597729999998
     'y': 14.639646899999995
     r: 10
     meta:
@@ -2509,7 +2509,7 @@ mirror_leftmain_indexfar_bottom:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2571,8 +2571,8 @@ mirror_leftmain_indexfar_bottom:
             - 0
             - 0
 mirror_leftmain_indexfar_home:
-    x: 188.1499695
-    'y': 33.350994199999995
+    x: 189.05395829999998
+    'y': 31.381378699999996
     r: 10
     meta:
         stagger: 0
@@ -2589,7 +2589,7 @@ mirror_leftmain_indexfar_home:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2651,8 +2651,8 @@ mirror_leftmain_indexfar_home:
             - 10
             - 10
 mirror_leftmain_indexfar_top:
-    x: 184.8506541
-    'y': 52.062341499999995
+    x: 186.10193929999997
+    'y': 48.123110499999996
     r: 10
     meta:
         stagger: 0
@@ -2669,7 +2669,7 @@ mirror_leftmain_indexfar_top:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2731,7 +2731,7 @@ mirror_leftmain_indexfar_top:
             - 10
             - 10
 mirror_leftthumb_in_thumb:
-    x: 201.8159027
+    x: 202.37259509999998
     'y': -3.8409709000000056
     r: 10
     meta:
@@ -2749,7 +2749,7 @@ mirror_leftthumb_in_thumb:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2793,7 +2793,7 @@ mirror_leftthumb_in_thumb:
             - 0
             - 0
 mirror_leftthumb_home_thumb:
-    x: 180.6404538
+    x: 181.19714619999996
     'y': -10.872337100000005
     r: 30
     meta:
@@ -2811,7 +2811,7 @@ mirror_leftthumb_home_thumb:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2859,7 +2859,7 @@ mirror_leftthumb_home_thumb:
             - 0
             - 0
 mirror_leftthumb_out_thumb:
-    x: 163.629644
+    x: 164.1863364
     'y': -25.633451000000008
     r: 53
     meta:
@@ -2877,7 +2877,7 @@ mirror_leftthumb_out_thumb:
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2925,8 +2925,8 @@ mirror_leftthumb_out_thumb:
             - 0
             - 0
 mirror_leftthumbin_in:
-    x: 168.5423776
-    'y': 4.082145599999995
+    x: 169.59906999999998
+    'y': 3.2161201999999953
     r: 30
     meta:
         stagger: 0
@@ -2938,12 +2938,12 @@ mirror_leftthumbin_in:
         orient: 0
         shift:
             - 3
-            - 19
+            - 18
         rotate: 0
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -2957,13 +2957,13 @@ mirror_leftthumbin_in:
                         splay: -23
                         shift:
                             - 0
-                            - cy-1
+                            - cy-2
                     rows: {}
                     name: out
             key:
                 shift:
                     - 3
-                    - cy+2
+                    - cy+1
             name: leftthumbin
         col:
             rows: {}
@@ -2977,8 +2977,8 @@ mirror_leftthumbin_in:
             - 0
             - 0
 mirror_leftthumbin_out:
-    x: 151.4078029
-    'y': -10.743296700000004
+    x: 152.76313079999997
+    'y': -11.345111800000003
     r: 53
     meta:
         stagger: 0
@@ -2990,12 +2990,12 @@ mirror_leftthumbin_out:
         orient: 0
         shift:
             - 0
-            - 16
+            - 15
         rotate: 0
         adjust: {}
         width: 18
         height: 18
-        padding: 19
+        padding: 17
         autobind: 10
         skip: false
         asym: both
@@ -3009,20 +3009,20 @@ mirror_leftthumbin_out:
                         splay: -23
                         shift:
                             - 0
-                            - cy-1
+                            - cy-2
                     rows: {}
                     name: out
             key:
                 shift:
                     - 3
-                    - cy+2
+                    - cy+1
             name: leftthumbin
         col:
             key:
                 splay: -23
                 shift:
                     - 0
-                    - cy-1
+                    - cy-2
             rows: {}
             name: out
         row: default

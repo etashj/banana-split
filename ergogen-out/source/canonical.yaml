@@ -2,6 +2,8 @@ meta:
     version: 0.0.1
     engine: 4.1.0
     author: Etash Jhanji
+units:
+    $default_padding: cy
 points:
     zones:
         leftmain:
@@ -69,11 +71,11 @@ points:
                         splay: -23
                         shift:
                             - 0
-                            - cy-1
+                            - cy-2
             key:
                 shift:
                     - 3
-                    - cy+2
+                    - cy+1
     mirror:
         ref: leftmain_pinky_home
         distance: 270
