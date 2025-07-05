@@ -1,0 +1,79 @@
+meta:
+    version: 0.0.1
+    engine: 4.1.0
+    author: Etash Jhanji
+points:
+    zones:
+        leftmain:
+            columns:
+                pinky:
+                    key:
+                        splay: 8
+                        origin:
+                            - -20
+                            - 15
+                ring:
+                    key:
+                        stagger: 14
+                        splay: -7
+                        spread: cx + 2
+                middle:
+                    key:
+                        splay: -5
+                        spread: cx+2
+                        stagger: 4
+                index:
+                    key:
+                        splay: -5
+                        stagger: -5
+                        spread: cx+1
+                indexfar:
+                    key:
+                        splay: -1
+                        stagger: 0
+            rows:
+                bottom: null
+                home: null
+                top: null
+        leftthumb:
+            anchor:
+                ref: leftmain_indexfar_bottom
+                shift:
+                    - -7
+                    - -20
+            columns:
+                in: null
+                home:
+                    key:
+                        splay: -20
+                        shift:
+                            - 4
+                            - -2
+                out:
+                    key:
+                        splay: -23
+                        shift:
+                            - 9
+                            - -3
+            rows:
+                thumb:
+                    key:
+                        splay: 6
+        leftthumbin:
+            anchor:
+                ref: leftthumb_home_thumb
+            columns:
+                in: null
+                out:
+                    key:
+                        splay: -23
+                        shift:
+                            - 0
+                            - cy-1
+            key:
+                shift:
+                    - 3
+                    - cy+2
+    mirror:
+        ref: leftmain_pinky_home
+        distance: 270
