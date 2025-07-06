@@ -195,11 +195,107 @@ pcbs:
           to: "{{row_net}}"
         adjust: 
           shift: [0, -5]
-      nicenano: 
+      nicenano_left: 
         what: nicenano 
         params: 
-          orientation: "down"
+          orientation: "up"
         where: 
           ref: leftmain_indexfar_top
-          shift: [0,0]
-          rotate: 0
+          shift: [px-2,-0.55cy]
+          rotate: -92
+      nicenano_right: 
+        what: nicenano 
+        params: 
+          orientation: "up"
+          RAW: RRAW
+          GND: RGND
+          RST: RRST
+          VCC: RVCC
+          P031: RP031
+          P029: RP029
+          P002: RP002
+          P115: RP115
+          P113: RP113
+          P111: RP111
+          P010: RP010
+          P009: RP009
+          P006: RP006
+          P008: RP008
+          P017: RP017
+          P020: RP020
+          P022: RP022
+          P024: RP024
+          P100: RP100
+          P011: RP011
+          P104: RP104
+          P106: RP106
+          P101: RP101
+          P102: RP102
+          P107: RP107
+        where: 
+          ref: mirror_leftmain_indexfar_top
+          shift: [px-2,-0.55cy]
+          rotate: 88
+      niceview_left: 
+        what: niceview 
+        params: 
+          CS: P006
+          SCK: P020
+          MOSI: P017
+          pin_socket_3dmodel_filename: '${BANANA_SPLIT}/models/fem5pin.step'
+          pin_socket_3dmodel_xyz_rotation: [90, 0,0]
+          pin_socket_3dmodel_xyz_offset: [-5, -16.75, 0]
+          pin_header_3dmodel_filename: '${BANANA_SPLIT}/models/mal5pin.step'
+          pin_header_3dmodel_xyz_rotation: [180, 0,0]
+          pin_header_3dmodel_xyz_offset: [-5, -16.75, 8]
+          niceview_3dmodel_filename: '${BANANA_SPLIT}/models/niceview.step'
+          niceview_3dmodel_xyz_rotation: [0, 0,90]
+          niceview_3dmodel_xyz_offset: [0, 0,9.5]
+        where: 
+          ref: leftmain_indexfar_top
+          shift: [px-2,-0.57cy]
+          rotate: -2
+      niceview_right: 
+        what: niceview 
+        params: 
+          CS: RP006
+          SCK: RP020
+          MOSI: RP017
+          VCC: RVCC
+          GND: RGND
+          pin_socket_3dmodel_filename: '${BANANA_SPLIT}/models/fem5pin.step'
+          pin_socket_3dmodel_xyz_rotation: [90, 0,0]
+          pin_socket_3dmodel_xyz_offset: [-5, -16.75, 0]
+          pin_header_3dmodel_filename: '${BANANA_SPLIT}/models/mal5pin.step'
+          pin_header_3dmodel_xyz_rotation: [180, 0,0]
+          pin_header_3dmodel_xyz_offset: [-5, -16.75, 8]
+          niceview_3dmodel_filename: '${BANANA_SPLIT}/models/niceview.step'
+          niceview_3dmodel_xyz_rotation: [0, 0,90]
+          niceview_3dmodel_xyz_offset: [0, 0,9.5]
+        where: 
+          ref: mirror_leftmain_indexfar_top
+          shift: [px-2,-0.57cy]
+          rotate: -2 
+      jstph_left: 
+        what: jstph 
+        params:
+          side: 'B'
+          reversible: true
+          BAT_P: RAW
+          battery_connector_3dmodel_filename: '${BANANA_SPLIT}/models/jstph.stp'
+          battery_connector_3dmodel_xyz_offset: [0, -2, 0]
+        where: 
+          ref: leftmain_index_bottom
+          shift: [-0.1px,-0.7cy]
+      jstph_right: 
+        what: jstph 
+        params:
+          side: 'B'
+          reversible: true
+          BAT_P: RRAW
+          BAT_N: RGND
+          battery_connector_3dmodel_filename: '${BANANA_SPLIT}/models/jstph.stp'
+          battery_connector_3dmodel_xyz_offset: [0, -2, 0]
+        where: 
+          ref: mirror_leftmain_index_bottom
+          shift: [-0.1px,-0.7cy]
