@@ -213,7 +213,7 @@ pcbs:
         where: true
         params: 
           keycaps: true
-          reverse: true
+          reverse: false
           hotswap: true
           from: "{{column_net}}"
           to: "{{colrow}}"
@@ -310,7 +310,7 @@ pcbs:
         what: jstph 
         params:
           side: 'B'
-          reversible: true
+          reversible: false
           BAT_P: RAW
           battery_connector_3dmodel_filename: '${BANANA_SPLIT}/models/jstph.stp'
           battery_connector_3dmodel_xyz_offset: [0, -2, 0]
@@ -321,7 +321,7 @@ pcbs:
         what: jstph 
         params:
           side: 'B'
-          reversible: true
+          reversible: false
           BAT_P: RRAW
           BAT_N: RGND
           battery_connector_3dmodel_filename: '${BANANA_SPLIT}/models/jstph.stp'
