@@ -32,6 +32,8 @@ points:
         bottom:
         home:
         top:
+      anchor: 
+        shift: [85, -150]
     leftthumb: 
       anchor: 
         ref: leftmain_indexfar_bottom
@@ -170,4 +172,34 @@ outlines:
     - operation: subtract
       name: keys
 #cases: <case config...> #optional
-#pcbs: <pcb config...> #optional
+pcbs:
+  banana_split: 
+    outlines: 
+      main: 
+        outline: board_full
+    footprints: 
+      choc_hotswap:
+        what: choc
+        where: true
+        params: 
+          keycaps: true
+          reverse: true
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode:
+        what: diode
+        where: true
+        params: 
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust: 
+          shift: [0, -5]
+      nicenano: 
+        what: nicenano 
+        params: 
+          orientation: "down"
+        where: 
+          ref: leftmain_indexfar_top
+          shift: [0,0]
+          rotate: 0
