@@ -14,32 +14,40 @@ points:
           key.splay: 8
           key.origin: [-20, 15]
           key.column_net: P022
+          key.mirror.column_net: RP022
         ring: 
           key.stagger: 14
           key.splay: -7
           key.spread: cx + 2
           key.column_net: P024
+          key.mirror.column_net: RP024
         middle: 
           key.splay: -5
           key.spread: cx+2
           key.stagger: 4
           key.column_net: P100
+          key.mirror.column_net: RP100
         index:
           key.splay: -5
           key.stagger: -5
           key.spread: cx+1
           key.column_net: P011
+          key.mirror.column_net: RP011
         indexfar:
           key.splay: -1
           key.stagger: 0
           key.column_net: P104
+          key.mirror.column_net: RP104
       rows: 
         bottom:
           row_net: P031
+          mirror.row_net: RP031
         home:
           row_net: P029
+          mirror.row_net: RP029
         top:
           row_net: P002
+          mirror.row_net: RP002
       anchor: 
         shift: [85, -150]
     leftthumb: 
@@ -49,32 +57,39 @@ points:
       columns:
         in: 
           key.column_net: P022
+          key.mirror.column_net: RP022
         home: 
           key.splay: -20
           key.shift: [4, -2]
           key.column_net: P024
+          key.mirror.column_net: RP024
         out: 
           key.splay: -23
           key.shift: [9, -3]
           key.column_net: P100
+          key.mirror.column_net: RP100
       rows: 
         thumb: 
           key.splay: 6
           key.row_net: P115
+          key.mirror.row_net: RP115
     leftthumbfar: 
       anchor: 
         ref: leftthumb_home_thumb
       columns: 
         in: 
           key.column_net: P011
+          key.mirror.column_net: RP011
         out: 
           key.splay: -23
           key.shift: [0, cy-2]
           key.column_net: P104
+          key.mirror.column_net: RP104
       key: 
         shift: [3, cy+1]
         row_net: P115
-  mirror: 
+        mirror.row_net: RP115
+  mirror: &mirror
     ref: leftmain_pinky_home
     distance: 270
 outlines: 

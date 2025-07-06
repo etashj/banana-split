@@ -4,9 +4,6 @@ A split, ortholinear, tented keyboard with columnar staggering. Designed from sc
 More Photos/CAD model coming soon :/
 
 ### PCB
-> [!IMPORTANT]
-> In the current state the pcb file has incorrect net names for the right board and thus poor wiring, this will be updated manually soon and a new file uploaded. 
-
 ![PCB](img/pcb.png)
 ### ErgoPad Layout
 [Design your own at this link](https://pashutk.com/ergopad/)
