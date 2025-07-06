@@ -4,6 +4,8 @@ meta:
   author: Etash Jhanji
 units:
   $default_padding: cy
+  px: cx+5
+  py: cy+5
 points: 
   zones: 
     leftmain: 
@@ -45,7 +47,7 @@ points:
       rows: 
         thumb: 
           key.splay: 6
-    leftthumbin: 
+    leftthumbfar: 
       anchor: 
         ref: leftthumb_home_thumb
       columns: 
@@ -58,10 +60,114 @@ points:
   mirror: 
     ref: leftmain_pinky_home
     distance: 270
-#outlines: 
-#  raw: 
-#    - what: rectangle
-#      where: true
-#      size: [cx, cy]
+outlines: 
+  raw: 
+    - what: rectangle
+      where: true
+      size: [cx, cy]
+  keys: 
+    - what: rectangle
+      where: true
+      size: [cx-0.5, cy-0.5]
+  board_left: 
+    - what: polygon
+      operation: stack
+      points: 
+        - ref: leftmain_pinky_top
+          shift: [-0.5px,0.5py]
+        - ref: leftmain_ring_top
+          shift: [-0.5px,0.5py]
+        - ref: leftmain_middle_top
+          shift: [-0.5px,0.5py]
+        - ref: leftmain_middle_top
+          shift: [0.5px,0.5py]
+        #- ref: leftmain_index_top
+        #  shift: [0.5px,0.5py]
+        - ref: leftmain_indexfar_top
+          shift: [0.5px + 21,0.5py]
+        - ref: leftmain_indexfar_top
+          shift: [0.5px + 20,0.5py-36]
+        - ref: leftthumbfar_in
+          shift: [0.15px,0.5py]
+        - ref: leftthumbfar_out
+          shift: [-0.5px,0.5py]
+        - ref: leftthumbfar_out
+          shift: [0.5px,0.5py]
+        - ref: leftthumb_out_thumb
+          shift: [0.5px,0.5py]
+        - ref: leftthumb_out_thumb
+          shift: [0.5px,-0.5py]
+        #- ref: leftthumb_out_thumb
+        #  shift: [-0.5px,-0.5py]
+        - ref: leftthumb_home_thumb
+          shift: [0.5px-1,-0.5py]
+        - ref: leftthumb_home_thumb
+          shift: [-0.5px+1,-0.5py]
+        - ref: leftthumb_in_thumb
+          shift: [-0.5px,-0.5py]
+        - ref: leftmain_middle_bottom
+          shift: [0px,-0.5py]
+        - ref: leftmain_ring_bottom
+          shift: [0.5px,-0.5py]
+        - ref: leftmain_pinky_bottom
+          shift: [0.5px,-0.5py]
+        - ref: leftmain_pinky_bottom
+          shift: [-0.5px,-0.5py]
+      fillet: 5
+  board_right: 
+    - what: polygon
+      operation: stack
+      points: 
+        - ref: mirror_leftmain_pinky_top
+          shift: [-0.5px,0.5py]
+        - ref: mirror_leftmain_ring_top
+          shift: [-0.5px,0.5py]
+        - ref: mirror_leftmain_middle_top
+          shift: [-0.5px,0.5py]
+        - ref: mirror_leftmain_middle_top
+          shift: [0.5px,0.5py]
+        #- ref: mirror_leftmain_index_top
+        #  shift: [0.5px,0.5py]
+        - ref: mirror_leftmain_indexfar_top
+          shift: [0.5px + 21,0.5py]
+        - ref: mirror_leftmain_indexfar_top
+          shift: [0.5px + 20,0.5py-36]
+        - ref: mirror_leftthumbfar_in
+          shift: [0.15px,0.5py]
+        - ref: mirror_leftthumbfar_out
+          shift: [-0.5px,0.5py]
+        - ref: mirror_leftthumbfar_out
+          shift: [0.5px,0.5py]
+        - ref: mirror_leftthumb_out_thumb
+          shift: [0.5px,0.5py]
+        - ref: mirror_leftthumb_out_thumb
+          shift: [0.5px,-0.5py]
+        #- ref: mirror_leftthumb_out_thumb
+        #  shift: [-0.5px,-0.5py]
+        - ref: mirror_leftthumb_home_thumb
+          shift: [0.5px-1,-0.5py]
+        - ref: mirror_leftthumb_home_thumb
+          shift: [-0.5px+1,-0.5py]
+        - ref: mirror_leftthumb_in_thumb
+          shift: [-0.5px,-0.5py]
+        - ref: mirror_leftmain_middle_bottom
+          shift: [0px,-0.5py]
+        - ref: mirror_leftmain_ring_bottom
+          shift: [0.5px,-0.5py]
+        - ref: mirror_leftmain_pinky_bottom
+          shift: [0.5px,-0.5py]
+        - ref: mirror_leftmain_pinky_bottom
+          shift: [-0.5px,-0.5py]
+      fillet: 5
+  board_full: 
+    - name: board_left
+    - operation: add
+      name: board_right
+  combo: 
+    - name: board_left
+    - operation: add
+      name: board_right
+    - operation: subtract
+      name: keys
 #cases: <case config...> #optional
 #pcbs: <pcb config...> #optional
