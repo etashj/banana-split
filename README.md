@@ -1,5 +1,8 @@
 # banana split
-A split, ortholinear, tented keyboard with columnar staggering. Designed from scratch with ergogen, KiCad, and Fusion 360, and fully open-source. 
+A split, tented keyboard with columnar staggering. Designed from scratch with ergogen, KiCad, and Fusion 360, and fully open-source. 
+Runs on 18650 batteries (3.7V 1200 mAh) which provide a mass for tenting. Plan to use a clear acrylic sandwich case which. 
+Design will feature clear case, white keys, brown modifiers, and yellow home "row" for a banana split. 40 keys with 4 layer cusotmizable layout. 
+Uses 2 nice!nano and nice!view boards which show status. 
 
 More Photos/CAD model coming soon :/
 
