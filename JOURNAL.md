@@ -66,3 +66,7 @@ This means I have to consider adding mounting holes and also checking how the 18
 ![routed pcb front](img/pcb_routed_f.png)
 ![routed pcb back](img/pcb_routed_b.png)
 ![pcb](img/pcb.png)
+
+## July 7th [2025-06-07]
+
+Working on the PCB more. Adding 3d models for switches and buttons as well as for the nicenano and display. New decisions about the case: no top plate. CLear resin printing to make a bowl of sorts for the bottom and then use screws to mount the board to said bowl. This simplifies the case and munfacturing, saves money while achiving the same techy look. 

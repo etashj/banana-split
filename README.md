@@ -7,6 +7,7 @@ Uses 2 nice!nano and nice!view boards which show status.
 More Photos/CAD model coming soon :/
 
 ### PCB
+![render 1 july 7](img/render1.png)
 ![PCB Routed Front](img/pcb_routed_f.png)
 ![PCB Routed Back](img/pcb_routed_b.png)
 ![PCB](img/pcb.png)
