@@ -13,7 +13,6 @@ More Photos/CAD model coming soon :/
 ### ErgoPad Layout
 [Design your own at this link](https://pashutk.com/ergopad/)
 ![Ergopad w/ Outline](img/outline.png)
-![Ergopad Layout](img/ergopad.png)
 
 Case: Custom
 PCB: Custom
