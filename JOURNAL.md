@@ -4,7 +4,7 @@ author: "Etash Jhanji"
 description: "A split, hot swappable, columnar staggered, wireless keyboard custom themed and custom designed for my hand shape and use in programming."
 date: 2025-06-03
 ---
-**Total time: ~10 hr (WIP)**
+**Total time: ~15 hr (WIP)**
 ---
 
 ## July 3rd [2025-06-03]
@@ -68,5 +68,10 @@ This means I have to consider adding mounting holes and also checking how the 18
 ![pcb](img/pcb.png)
 
 ## July 7th [2025-06-07]
+**~5 hrs**
 
-Working on the PCB more. Adding 3d models for switches and buttons as well as for the nicenano and display. New decisions about the case: no top plate. CLear resin printing to make a bowl of sorts for the bottom and then use screws to mount the board to said bowl. This simplifies the case and munfacturing, saves money while achiving the same techy look. 
+Working on the PCB more. Adding 3d models for switches and buttons as well as for the nicenano and display. New decisions about the case: no top plate. CLear resin printing to make a bowl of sorts for the bottom and then use screws to mount the board to said bowl. This simplifies the case and manufacturing, saves money while achiving the same techy look. 
+
+Also finished the case. It's designed to accommodate and 18650 which becomes tent and allows the board to be mounted via M3 screws. See below for the case. I was going to use Fusion 360, but OnShape had a Wakatime plugin, but I also couldn't get it to work. 
+
+![case](img/case.png)

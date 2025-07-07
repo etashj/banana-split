@@ -6,6 +6,8 @@ Uses 2 nice!nano and nice!view boards which show status.
 
 More Photos/CAD model coming soon :/
 
+### Case
+![case](img/case.png)
 ### PCB
 ![render 1 july 7](img/render1.png)
 ![PCB Routed Front](img/pcb_routed_f.png)
