@@ -29,4 +29,8 @@ I also decided on the following tools:
 - fusion 360: (optional) 3d modelling
 
 inspiration comes from the following: 
-![inspiration photo 1](img/inspire/a.png)
+![inspiration photo 1](img/IMG_5892.webp)
+![inspiration photo 2](img/IMG_5893.webp)
+![inspiration photo 3](img/IMG_5894.webp)
+![inspiration photo 4](img/IMG_5895.webp)
+![inspiration photo 5](img/IMG_5896.webp)
