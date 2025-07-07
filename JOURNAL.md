@@ -8,7 +8,7 @@ date: 2025-06-03
 ---
 
 ## July 3rd [2025-06-03]
-** ~3 hours **
+**~3 hours**
 
 Idea was conceptualized today and most of the engineering goals were set. theyre also decribed in the readme
 
@@ -35,3 +35,11 @@ inspiration comes from the following:
 ![inspiration photo 3](img/IMG_5894.webp)
 ![inspiration photo 4](img/IMG_5895.webp)
 ![inspiration photo 5](img/IMG_5896.webp)
+
+## July 4th [2025-06-04]
+**~3 hours**
+
+Happy 4th of July! Not much got done today, laid out stagger and splay in ergopad. see below. 
+
+![ergopad](img/ergopad.PNG)
+![firework](img/IMG_5897.webp)
