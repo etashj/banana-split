@@ -7,6 +7,8 @@ Uses 2 nice!nano and nice!view boards which show status.
 More Photos/CAD model coming soon :/
 
 ### PCB
+![PCB Routed Front](img/pcb_routed_f.png)
+![PCB Routed Back](img/pcb_routed_b.png)
 ![PCB](img/pcb.png)
 ### ErgoPad Layout
 [Design your own at this link](https://pashutk.com/ergopad/)

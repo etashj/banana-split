@@ -71,8 +71,9 @@ points:
       rows: 
         thumb: 
           key.splay: 6
-          key.row_net: P115
-          key.mirror.row_net: RP115
+      key: 
+        row_net: P115
+        mirror.row_net: RP115
     leftthumbfar: 
       anchor: 
         ref: leftthumb_home_thumb
