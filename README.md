@@ -8,6 +8,7 @@ Uses 2 nice!nano and nice!view boards which show status.
 Making this because there arent really many ergonomic, but compact keybaord for large hand (almost oxymoronic) which also feature mechanical switches. 
 
 More Photos/CAD model coming soon :/
+![render 2](img/render2.png)
 
 ### Case & Keycaps
 ![case](img/case.png)

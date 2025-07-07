@@ -1973,6 +1973,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -2449,6 +2460,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -2676,6 +2698,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -4657,6 +4690,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -5133,6 +5177,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -5360,6 +5415,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5603,6 +5669,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -5838,6 +5915,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -6065,6 +6153,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7031,6 +7130,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -7258,6 +7368,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7742,6 +7863,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -7977,6 +8109,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -8204,6 +8347,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8804,6 +8958,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -9280,6 +9445,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -9515,6 +9691,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -9742,6 +9929,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -10218,6 +10416,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -12148,6 +12357,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -12383,6 +12603,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -12610,6 +12841,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -13576,6 +13818,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -14285,6 +14538,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -15681,6 +15945,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -16398,6 +16673,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -16874,6 +17160,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -17101,6 +17398,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -17585,6 +17893,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -18061,6 +18380,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "ComboDiode"
 		(layer "F.Cu")
@@ -18529,6 +18859,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -19254,6 +19595,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -19481,6 +19833,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -19724,6 +20087,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -19951,6 +20325,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -20917,6 +21302,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -21144,6 +21540,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -21387,6 +21794,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "PG1350"
 		(layer "F.Cu")
@@ -21614,6 +22032,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -22090,6 +22519,17 @@
 		(model "${BANANA_SPLIT}/models/Kailh_Choc_Low_Profile_Switch.step"
 			(offset
 				(xyz 0 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${BANANA_SPLIT}/models/keycap.step"
+			(offset
+				(xyz -0.5 0 7)
 			)
 			(scale
 				(xyz 1 1 1)

@@ -78,3 +78,5 @@ Also finished the case. It's designed to accommodate and 18650 which becomes ten
 
 Went for a relatively simple keycap saddle design for easy movement of fingers. Also desinged in onshape. 
 ![keycap](img/keycap.png)
+
+![render 2](img/render2.png)
