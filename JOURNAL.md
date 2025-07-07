@@ -8,6 +8,7 @@ date: 2025-06-03
 ---
 
 ## July 3rd [2025-06-03]
+** ~3 hours **
 
 Idea was conceptualized today and most of the engineering goals were set. theyre also decribed in the readme
 
